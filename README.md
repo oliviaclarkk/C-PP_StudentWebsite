@@ -1,0 +1,2 @@
+# C-PP_StudentWebsite
+During my Senior year of high school, I was asked by a faculty member to actively update a website called "Black and Gold Student Media".  BGSM was a website for C-PP High School students to get weekly updates of everything occurring at the high school including information about prom, senior trip, upcoming theatre shows, sport game records, etc.  You can access the C-PP BGSM website by clicking the following link: http://bgsminfo.weebly.com/
